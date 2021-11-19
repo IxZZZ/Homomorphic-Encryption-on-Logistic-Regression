@@ -1,5 +1,5 @@
 # Homomorphic encryption on logistic regression
-This is my cryptology project collaborated with [datthing1801](https://github.com/datthinh1801).  
+This is my cryptology project collaborated with [datthinh1801](https://github.com/datthinh1801).  
 
 ### Code quality checks
 | Criteria | Status |
